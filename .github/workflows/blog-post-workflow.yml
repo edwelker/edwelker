@@ -15,7 +15,9 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://eddiewelker.com/rss.xml"
-          max_post_count: 3
-          # This template ensures a title always exists
+          max_post_count: 5
+          # The empty line below the title forces a true Markdown line break
           template: |
-            - [$title]($url)
+            * [$title]($url)
+
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
