@@ -14,6 +14,10 @@ I am a team leader and architect who helps organizations build big, important th
 * **Philosophy:** Building, whether it's code, wood, or music.
 * **Empathy:** Build for people.
 
+### Highlights - work, projects, things I'm proud of
+<!-- HIGHLIGHTS_LIST:START -->
+<!-- HIGHLIGHTS_LIST:END -->
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 * [My All-City Space Horse Setup](https://eddiewelker.com/blog/2025/12/05/all_city_space_horse/)

@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Update Profile Feeds
 on:
   push:
     branches:
@@ -8,17 +8,31 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-blog:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in posts
+      - name: Pull blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://eddiewelker.com/rss.xml"
-          max_post_count: 3
+          max_post_count: 5
           template: "* [$title]($url)$newline"
           tag_post_pre_newline: true
+          disable_html_encoding: true
+
+  update-highlights:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull highlights
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://eddiewelker.com/highlights.xml"
+          max_post_count: 5
+          template: "* [$title]($url)$newline"
+          tag_post_pre_newline: true
+          comment_tag_name: "HIGHLIGHTS-LIST"
           disable_html_encoding: true
