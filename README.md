@@ -15,8 +15,7 @@ I am a team leader and architect who helps organizations build big, important th
 * **Empathy:** Build for people.
 
 ### Highlights - work, projects, things I'm proud of
-<!-- HIGHLIGHTS_LIST:START -->
-<!-- HIGHLIGHTS_LIST:END -->
+<!-- HIGHLIGHTS-LIST:START --> <!-- HIGHLIGHTS-LIST:END -->
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
