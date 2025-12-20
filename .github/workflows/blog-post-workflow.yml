@@ -17,4 +17,5 @@ jobs:
           feed_list: "https://eddiewelker.com/rss.xml"
           max_post_count: 3
           # This template ensures a title always exists
-          template: "- [$title]($url)\n"
+          template: |
+            - [$title]($url)
