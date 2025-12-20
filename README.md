@@ -15,9 +15,11 @@ I am a team leader and architect who helps organizations build big, important th
 * **Empathy:** Build for people.
 
 ### Latest Blog Posts
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
+
 ### Beyond the Code
 * **Cellist:** Former principal cellist of the Columbia Orchestra. I have a deep love for 20th-century Russian composers like Prokofiev and Shostakovich.
-* **Cyclist:** I spend summers on long-distance tours. Proud owner of an [All-City Space Horse](/blog/2025/12/05/all_city_space_horse/).
+* **Cyclist:** I spend summers on long-distance tours. Proud owner of an [All-City Space Horse](https://eddiewelker.com/blog/2025/12/05/all_city_space_horse/).
 * **Maker:** Amateur woodworker and photographer (shooting with a Nikon D780).
 
 ### Links
