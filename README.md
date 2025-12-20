@@ -15,7 +15,14 @@ I am a team leader and architect who helps organizations build big, important th
 * **Empathy:** Build for people.
 
 ### Highlights - work, projects, things I'm proud of
-<!-- HIGHLIGHTS-LIST:START --> <!-- HIGHLIGHTS-LIST:END -->
+<!-- HIGHLIGHTS-LIST:START -->
+* [Personal Website Github Repo](https://github.com/edwelker/website/tree/astro)
+* [LivingByBike's MoCo Tour 2024](https://photos.google.com/share/AF1QipNAUnus_8LqdSZ8u1JZVN9wJTStrYWm7URukGV2y8ozynSglhDErsA2WV0-0izWsg?key=dHBVVXlkS2FVMXhiZXhsbkRKX1VNOW5YbVZxTzBn)
+* [718 2024 Micro Tour 10](https://photos.google.com/share/AF1QipMVQd_WRrYB6JwAXFZVypTMudkwPMNXoKsYDs1GxufiyCLbOAcSFLTtN036zhFRgQ?key=OUpJcjVkTC0zS2NmZHdLazVibFdEQXJGRGZWZXBn)
+* [718 2024 GAP/C&O](https://photos.google.com/share/AF1QipPjln17COSHshcQ8hRndTWSh0Nsrb20Sbia0MUfgEfuUoJnvRo0un_XsdaMcqF5oQ?key=d25XMGE1eWlNWEI2ZlJCMU9jYnJCQjduN1F6MERR)
+* [718 Erie Canal Tour, 2024](https://photos.google.com/share/AF1QipNPjKyC4iaTnLBhj0g-CTrnpXxxGMBf-09YYA-BZ7iWPmA6AyE_odwwHE5TrL__uQ?key=bXNXUGNGMEFveHlSX0lNazhiZmQ2X1FfclRQUGFR)
+
+<!-- HIGHLIGHTS-LIST:END -->
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
