@@ -19,5 +19,6 @@ jobs:
         with:
           feed_list: "https://eddiewelker.com/rss.xml"
           max_post_count: 5
+          template: "* [$title]($url)$newline"
           tag_post_pre_newline: true
-          template: "* [$title]($url)"
+          disable_html_encoding: true
