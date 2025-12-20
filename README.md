@@ -15,7 +15,7 @@ I am a team leader and architect who helps organizations build big, important th
 * **Empathy:** Build for people.
 
 ### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [My All-City Space Horse Setup](https://eddiewelker.com/blog/2025/12/05/all_city_space_horse/)- [My Szechuan Noodles](https://eddiewelker.com/blog/2025/09/01/szechuan_noodles/)- [Dishes of Panda Gourmet](https://eddiewelker.com/blog/panda_gourmet_mar_2025/)- [St. Patricks Day Corned beef and cabbage &amp; Irish soda bread](https://eddiewelker.com/blog/2014/03/16/st-patricks-day-corned-beef-and-cabbage-irish-soda-bread/)- [Wing contest at Quarry House](https://eddiewelker.com/blog/2013/05/15/wing-contest-at-quarry-house/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [My All-City Space Horse Setup](https://eddiewelker.com/blog/2025/12/05/all_city_space_horse/)- [My Szechuan Noodles](https://eddiewelker.com/blog/2025/09/01/szechuan_noodles/)- [Dishes of Panda Gourmet](https://eddiewelker.com/blog/panda_gourmet_mar_2025/)<!-- BLOG-POST-LIST:END -->
 
 ### Beyond the Code
 * **Cellist:** Former principal cellist of the Columbia Orchestra. I have a deep love for 20th-century Russian composers like Prokofiev and Shostakovich.
