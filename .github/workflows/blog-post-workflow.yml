@@ -18,7 +18,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://eddiewelker.com/rss.xml"
-          max_post_count: 5
+          max_post_count: 3
           template: "* [$title]($url)$newline"
           tag_post_pre_newline: true
           disable_html_encoding: true
