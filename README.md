@@ -10,8 +10,8 @@ I am a team leader and architect who helps organizations build big, important th
 
 ### Technical Focus
 * **Architecture:** Leading teams through organizational change and technical complexity.
-* **Languages & Frameworks:** Python, Django, XSLT, CSS/Sass.
-* **Philosophy:** Building, whether it's code, wood, or music.
+* **Languages & Frameworks:** Python, JavaScript, SQL, Scala, HTML/CSS.
+* **Philosophy:** Building, whether it's code, wood, or music. Incremental improvement and validation.
 * **Empathy:** Build for people.
 
 ### Highlights - work, projects, things I'm proud of
