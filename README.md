@@ -29,8 +29,6 @@ I am a team leader and architect who helps organizations build big, important th
 * [My All-City Space Horse Setup](https://eddiewelker.com/blog/2025/12/05/all_city_space_horse/)
 * [My Szechuan Noodles](https://eddiewelker.com/blog/2025/09/01/szechuan_noodles/)
 * [Dishes of Panda Gourmet](https://eddiewelker.com/blog/panda_gourmet_mar_2025/)
-* [St. Patricks Day Corned beef and cabbage & Irish soda bread](https://eddiewelker.com/blog/2014/03/16/st-patricks-day-corned-beef-and-cabbage-irish-soda-bread/)
-* [Wing contest at Quarry House](https://eddiewelker.com/blog/2013/05/15/wing-contest-at-quarry-house/)
 
 <!-- BLOG-POST-LIST:END -->
 
