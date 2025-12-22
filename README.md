@@ -28,7 +28,7 @@ I am a team leader and architect who helps organizations build big, important th
 <!-- BLOG-POST-LIST:START -->
 * [Bikes: All-City Space Horse](https://eddiewelker.com/blog/2025/12/05/all_city_space_horse/)
 * [My Szechuan Noodles](https://eddiewelker.com/blog/2025/09/01/szechuan_noodles/)
-* [Dishes of Panda Gourmet](https://eddiewelker.com/blog/panda_gourmet_mar_2025/)
+* [Dishes of Panda Gourmet](https://eddiewelker.com/blog/2025/03/30/panda_gourmet_mar_2025/)
 
 <!-- BLOG-POST-LIST:END -->
 
