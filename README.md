@@ -16,7 +16,7 @@ I am a team leader and architect who helps organizations build big, important th
 
 ### Highlights - work, projects, things I'm proud of
 <!-- HIGHLIGHTS-LIST:START -->
-* [Personal Website Github Repo](https://github.com/edwelker/website/tree/astro)
+* [Personal Website Github Repo](https://github.com/edwelker/astro-markdown-personal-site/tree/astro)
 * [LivingByBike's MoCo Tour 2024](https://photos.google.com/share/AF1QipNAUnus_8LqdSZ8u1JZVN9wJTStrYWm7URukGV2y8ozynSglhDErsA2WV0-0izWsg?key=dHBVVXlkS2FVMXhiZXhsbkRKX1VNOW5YbVZxTzBn)
 * [718 2024 Micro Tour 10](https://photos.google.com/share/AF1QipMVQd_WRrYB6JwAXFZVypTMudkwPMNXoKsYDs1GxufiyCLbOAcSFLTtN036zhFRgQ?key=OUpJcjVkTC0zS2NmZHdLazVibFdEQXJGRGZWZXBn)
 * [718 2024 GAP/C&O](https://photos.google.com/share/AF1QipPjln17COSHshcQ8hRndTWSh0Nsrb20Sbia0MUfgEfuUoJnvRo0un_XsdaMcqF5oQ?key=d25XMGE1eWlNWEI2ZlJCMU9jYnJCQjduN1F6MERR)
