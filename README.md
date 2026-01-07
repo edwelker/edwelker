@@ -26,9 +26,9 @@ I am a team leader and architect who helps organizations build big, important th
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+* [From WordPress to Hugo to Astro](https://eddiewelker.com/blog/2026/01/06/wordpress-to-hugo-to-astro/)
 * [Fannie Farmer's Cranberry Orange Bread](https://eddiewelker.com/recipes/fannie-farmer-cranberry-orange-bread/)
 * [Bikes: All-City Space Horse](https://eddiewelker.com/blog/2025/12/05/all_city_space_horse/)
-* [Instant Pot Turkey Chili with Quick-Soak Dried Beans](https://eddiewelker.com/recipes/instant_pot_chili/)
 
 <!-- BLOG-POST-LIST:END -->
 
