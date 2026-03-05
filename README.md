@@ -1,6 +1,6 @@
 # Eddie Welker
 
-**Senior Software Architect & Engineer | Cellist | Cyclist**
+**Staff Software Architect & Engineer | Cellist | Cyclist**
 
 I am a team leader and architect who helps organizations build big, important things. My work focuses on Python, Django, and scalable data infrastructure. When I'm not at a keyboard, I’m almost certainly on a bicycle.
 
