@@ -26,9 +26,9 @@ I am a team leader and architect who helps organizations build big, important th
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+* [Traditional Irish Boxty](https://eddiewelker.com/recipes/irish-boxty/)
 * [No-Knead Dutch Oven Bread](https://eddiewelker.com/recipes/no-knead-dutch-oven-bread/)
 * [From WordPress to Hugo to Astro](https://eddiewelker.com/blog/2026/01/06/wordpress-to-hugo-to-astro/)
-* [Fannie Farmer's Cranberry Orange Bread](https://eddiewelker.com/recipes/fannie-farmer-cranberry-orange-bread/)
 
 <!-- BLOG-POST-LIST:END -->
 
