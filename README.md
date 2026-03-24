@@ -26,9 +26,9 @@ I am a team leader and architect who helps organizations build big, important th
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+* [Cast Iron Irish Soda Bread](https://eddiewelker.com/recipes/undefined/)
 * [Traditional Irish Boxty](https://eddiewelker.com/recipes/undefined/)
 * [No-Knead Dutch Oven Bread](https://eddiewelker.com/recipes/undefined/)
-* [From WordPress to Hugo to Astro](https://eddiewelker.com/blog/undefined/)
 
 <!-- BLOG-POST-LIST:END -->
 
