@@ -26,9 +26,9 @@ I am a team leader and architect who helps organizations build big, important th
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-* [Crispy Air-Fryer Batch Taquitos](https://eddiewelker.com/recipes/crispy-air-fryer-taquitos/)
 * [Cast Iron Irish Soda Bread](https://eddiewelker.com/recipes/irish-soda-bread/)
 * [Traditional Irish Boxty](https://eddiewelker.com/recipes/irish-boxty/)
+* [No-Knead Dutch Oven Bread](https://eddiewelker.com/recipes/no-knead-dutch-oven-bread/)
 
 <!-- BLOG-POST-LIST:END -->
 
